@@ -1,5 +1,7 @@
 # github_searcher
 
+https://github-searcher-gules.vercel.app/
+
 Поиск пользователей Github, написанный на TypeScript.
 
 
